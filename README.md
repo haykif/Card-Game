@@ -14,7 +14,7 @@ Bienvenue ! Ce guide a pour but de vous aider à installer correctement les fich
    Extrayez le contenu du fichier `.zip` **directement** dans votre répertoire `Mes Documents`.  
    Exemple de chemin final:
 
-   ```cmd
+   ```powershell
    C:\Utilisateurs\<NomUtilisateur>\Documents\(Contenu_du_.zip)
    ```
 
