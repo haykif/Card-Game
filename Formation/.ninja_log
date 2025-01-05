@@ -1,0 +1,13 @@
+# ninja log v6
+7	621	7480332511781185	Formation_autogen/timestamp	126e47fd383857e9
+7	621	7480332511781185	Formation_autogen/mocs_compilation.cpp	126e47fd383857e9
+7	621	7480332511781185	C:/Users/hamzaaydogdu/Documents/Qt/build-Formation-Desktop_Qt_6_6_2_MinGW_64_bit-Release/Formation_autogen/timestamp	126e47fd383857e9
+7	621	7480332511781185	C:/Users/hamzaaydogdu/Documents/Qt/build-Formation-Desktop_Qt_6_6_2_MinGW_64_bit-Release/Formation_autogen/mocs_compilation.cpp	126e47fd383857e9
+627	730	7480332513475088	Formation_autogen/EWIEGA46WW/qrc_resources.cpp	2bf96bb510d91454
+627	730	7480332513475088	C:/Users/hamzaaydogdu/Documents/Qt/build-Formation-Desktop_Qt_6_6_2_MinGW_64_bit-Release/Formation_autogen/EWIEGA46WW/qrc_resources.cpp	2bf96bb510d91454
+751	1462	7480332513889397	CMakeFiles/Formation.dir/Formation_autogen/EWIEGA46WW/qrc_resources.cpp.obj	582e23afe860141
+731	2775	7480332513732499	CMakeFiles/Formation.dir/Formation_autogen/mocs_compilation.cpp.obj	467e389915b1d530
+735	2805	7480332513732499	CMakeFiles/Formation.dir/main.cpp.obj	217c0ca436b25d46
+745	3366	7480332513829061	CMakeFiles/Formation.dir/stockimg.cpp.obj	d25043b35c17ee4c
+740	3805	7480332513829061	CMakeFiles/Formation.dir/formation.cpp.obj	b87931b69565c46c
+3806	3984	7480332544484007	Formation.exe	251f2e4e1cad7e25
